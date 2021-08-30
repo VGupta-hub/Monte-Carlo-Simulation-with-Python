@@ -50,4 +50,5 @@ price_paths
 plt.plot(price_paths)
 
 
-
+# Graph link
+![image](https://user-images.githubusercontent.com/83883988/131385949-df5dba5a-b21f-467a-a6a6-5bc9b3d3cba9.png)
